@@ -1,0 +1,14 @@
+#Penetration Testing
+During my internship, I also worked on some penetration testing. This was such a valuable experience for me because I got to learn the security aspect of the computer world. 
+
+What is penetration testing?
+It is testing a computer system or web application to find any vulnerabilities that an attacker could exploit. 
+
+Advantages of penetration testing:
+-Reduces the cost of associated with network down time.
+-Meet regulatory requirements and curb fines. 
+-Ability to maintain positive image of the company. 
+-Asses network efficiency. 
+
+I did some tests using Zed Attack Proxy (ZAP) which is is an open-source web application security scanner used to do penetration testing. This application is very easy to use.
+
